@@ -20,7 +20,7 @@ npm npm run b
 - Secure login (`admin` / `password123`)
 - **Bookings Manager** — Approve, Reschedule, Cancel, or Delete client bookings
 - **Portfolio Asset Manager** — Upload new images via URL, delete existing ones
-- **Testimonials Curation** — Add/remove client reviews
+- **Testimonials Curation** — Add/remove client reviews  
 
 ### ✨ Premium UX Features
 - Custom dual-ring tracking cursor (amber gold)
